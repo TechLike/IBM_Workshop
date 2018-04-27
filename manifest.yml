@@ -1,0 +1,5 @@
+applications:
+  - name: modest-cori
+    memory: 128M
+    host: modest-cori
+    buildpack: staticfile_buildpack
